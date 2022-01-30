@@ -1,0 +1,15 @@
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\cadastroSeries.exe
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\cadastroSeries.deps.json
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\cadastroSeries.runtimeconfig.json
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\cadastroSeries.dll
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\ref\cadastroSeries.dll
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\bin\Debug\net6.0\cadastroSeries.pdb
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.csproj.AssemblyReference.cache
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.AssemblyInfoInputs.cache
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.AssemblyInfo.cs
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.dll
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\ref\cadastroSeries.dll
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.pdb
+C:\Users\jylai\OneDrive - Fatec Centro Paula Souza\Aulas\BootCamps\GFT\cadastroSeries\obj\Debug\net6.0\cadastroSeries.genruntimeconfig.cache

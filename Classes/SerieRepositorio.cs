@@ -1,6 +1,6 @@
 using cadastroSeries.Interfaces;
 
-namespace cadastroSeries.Classes
+namespace cadastroSeries
 {
     public class SerieRepositorio : IRepositorio<Series>
     {

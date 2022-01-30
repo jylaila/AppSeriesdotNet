@@ -26,6 +26,7 @@ namespace cadastroSeries
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descricao: " + this.Descricao + Environment.NewLine;
             retorno += "Ano: " + this.Ano + Environment.NewLine;
+            retorno += "Ativo: " + this.Ativo + Environment.NewLine;
 
             return retorno;
         }
@@ -37,6 +38,10 @@ namespace cadastroSeries
 
         public int getId(){
             return this.Id;
+        }
+
+        public bool getAtivo(){
+            return this.Ativo;
         }
 
         public void Desabilita(){
